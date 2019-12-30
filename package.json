@@ -15,8 +15,5 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "peerDependencies": {
-    "react-native": "^0.41.2"
-  }
+  "author": ""
 }
